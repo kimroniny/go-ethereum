@@ -1,4 +1,8 @@
-## Go Ethereum
+## SuperRunner for Go Ethereum
+
+SuperRunner: Asynchronous Interoperability among Separate Blockchains with Post-Finality
+
+This repo is forked from geth-v1.14.0 and implementing the SuperRunner protocol.
 
 Golang execution layer implementation of the Ethereum protocol.
 
